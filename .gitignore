@@ -1,6 +1,10 @@
 # Project Specific
 credentials.json
 token.pickle
+main.tfvars
+
+# Terraform
+.terraform*
 
 # Intellij
 .idea
